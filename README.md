@@ -1,6 +1,6 @@
 # 2110446 Data Science and Data Engineering @CU (2023/2)
 
-![alt text](https://github.com/pvateekul/2110531_DSDE_2023s1/raw/main/img/meme-5.png "join ds")
+![alt text](https://github.com/pvateekul/2110446_DSDE_2023s2/blob/fe7d455e96bcdbd5b9a559c133c18452d0b4de15/img/meme-5.png "join ds")
 
 ## Syllabus:
 
