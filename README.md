@@ -6,6 +6,8 @@
 
 [Syllabus](https://docs.google.com/document/d/1_4rCDzA0KwgGOh7CJ1s743QgCGgYW5lITbyRDdr1LoM/edit?usp=sharing)
 
+[Registration questionaire](https://docs.google.com/forms/d/e/1FAIpQLScyiKFawV3Yj1F6nt4t9we37GxGMmiPqOanYbLExlEsUSRsOQ/viewform)
+
 ## Code:
 
 ### Week01: Intro to Numpy, Pandas
