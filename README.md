@@ -8,6 +8,8 @@
 
 [Registration questionaire](https://docs.google.com/forms/d/e/1FAIpQLScyiKFawV3Yj1F6nt4t9we37GxGMmiPqOanYbLExlEsUSRsOQ/viewform)
 
+[Youtube Playlist](https://www.youtube.com/playlist?list=PLvso6gxDmsESeseoI8Bo3EVIBEFgZvW1c)
+
 ## Code:
 
 ### Week01: Intro to Numpy, Pandas
