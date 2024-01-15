@@ -26,7 +26,7 @@ Assignment (Pandas with Youtube stat data): [![Open In Colab](https://raw.github
 
 ### Week02: Data Preparation
 
-1. EDA: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2023s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2023s1/blob/main/code/Week02_DataPrep/Lab1_LoansDataSet.ipynb)
+1. EDA: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2023s2/blob/main/code/Week02_DataPrep/Lab1_LoansDataSet.ipynb)
 
 2. Impute Missing Value: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2023s2/blob/main/code/Week02_DataPrep/Lab2_ImputeMissingValue.ipynb)
 
