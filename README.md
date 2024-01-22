@@ -38,4 +38,24 @@ Assignment (Pandas with Youtube stat data): [![Open In Colab](https://raw.github
 
 Assignment: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2023s2/blob/main/code/Week02_DataPrep/Assignment2_TitanicDataPrep_ToStudent.ipynb) 
 
+### Week03-04: Traditional ML
+
+1. Decision Trees: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2023s2/blob/main/code/Week03_ML/1_Decision_Trees_Random_Forests_v3.ipynb)
+
+2. Linear Regression: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2023s2/blob/main/code/Week03_ML/2_Linear_Regression_v2.ipynb)
+
+3. Logistic Regression: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2023s2/blob/main/code/Week03_ML/3_Logistic_Regression_v2.ipynb)
+
+4. Neural Network: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2023s2/blob/main/code/Week03_ML/4_Neural_Network_v3.ipynb)
+
+5. K Nearest Neighbors: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2023s2/blob/main/code/Week03_ML/5_K_Nearest_Neighbors_v2.ipynb)
+
+6. SVM: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2023s2/blob/main/code/Week03_ML/6_Support_Vector_Machine_v2.ipynb)
+
+7. Save and Load Model: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2023s2/blob/main/code/Week03_ML/7_Save_Load_Model_v2.ipynb)
+
+8. K-Means: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2023s2/blob/main/code/Week03_ML/8_K_Means_Clustering_v2.ipynb)
+
+9. Market-Basket Analysis: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2023s2/blob/main/code/Week03_ML/9_Market_Basket_Intro_v2.ipynb)
+
 <!--- comment ---!>
