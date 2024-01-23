@@ -40,7 +40,7 @@ Assignment: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/211044
 
 ### Week03-04: Traditional ML
 
-1. Decision Trees: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2023s2/blob/main/code/Week03_ML/1_Decision_Trees_Random_Forests_v3.ipynb)
+1. Decision Trees: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2023s1/blob/main/code/Week03_ML/1_Decision_Trees_Random_Forests_v3.ipynb)
 
 2. Linear Regression: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2023s2/blob/main/code/Week03_ML/2_Linear_Regression_v2.ipynb)
 
