@@ -60,7 +60,7 @@ Assignment: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/211044
 
 9. Market-Basket Analysis: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2023s1/blob/main/code/Week03_ML/9_Market_Basket_Intro_v2.ipynb)
 
-10. Scikit-learn pipeline: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2023s1/blob/main/code/Week03_ML/10_Scikit_learn_Pipeline.ipynb)
+10. Scikit-learn pipeline: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2023s1/blob/main/code/Week03_ML/3_Logistic_Regression_v2.ipynb)
 
 
 <!--- comment ---!>
