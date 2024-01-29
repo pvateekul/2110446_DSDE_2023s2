@@ -39,6 +39,8 @@ Assignment (Pandas with Youtube stat data): [![Open In Colab](https://raw.github
 Assignment: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2023s2/blob/main/code/Week02_DataPrep/Assignment2_TitanicDataPrep_ToStudent.ipynb) 
 
 ### Week03-04: Traditional ML
+#### Week03: Tree-based model, regression
+#### Week04: NN, kNN, GridSearch, Pipeline, Evaluation + Clustering
 
 1. Decision Trees: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2023s1/blob/main/code/Week03_ML/1_Decision_Trees_Random_Forests_v3.ipynb)
 
