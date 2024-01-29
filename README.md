@@ -64,14 +64,14 @@ Assignment: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/211044
 
 ### Week04-05: Intro to Deep Learning
 
-1. Image classification (basic): CIFAR10: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2023s2/blob/main/code/Week04_Intro_Deep_Learning/1_Image_classification_CIFAR10_CNN.ipynb)
+1. Image classification (basic): CIFAR10: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2023s2/blob/main/code/Week04_DL/1_Image_classification_CIFAR10_CNN.ipynb)
 
-2. Image classification (advanced): Animal: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2023s2/blob/main/code/Week04_Intro_Deep_Learning/2_Image_classification_Animal_EfficientNetB0.ipynb)
+2. Image classification (advanced): Animal: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2023s2/blob/main/code/Week04_DL/2_Image_classification_Animal_EfficientNetB0.ipynb)
 
-3. Object detection: VOCDetection: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2023s2/blob/main/code/Week04_Intro_Deep_Learning/3_Object_detection_VOCDetection_FasterRCNN_MobileNet_V3.ipynb)
+3. Object detection: VOCDetection: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2023s2/blob/main/code/Week04_DL/3_Object_detection_VOCDetection_FasterRCNN_MobileNet_V3.ipynb)
 
-4. Semantic segmentation: CamSeq2007: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2023s2/blob/main/code/Week04_Intro_Deep_Learning/4_Semantic_segmentation_Camseq_deeplabv3_DataInGD.ipynb)
+4. Semantic segmentation: CamSeq2007: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2023s2/blob/main/code/Week04_DL/4_Semantic_segmentation_Camseq_deeplabv3_DataInGD.ipynb)
 
-5. Time series Forecasting: Stock Price: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2023s2/blob/main/code/Week04_Intro_Deep_Learning/5_Time_series_forecasting_DataInGD.ipynb)
+5. Time series Forecasting: Stock Price: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2023s2/blob/main/code/Week04_DL/5_Time_series_forecasting_DataInGD.ipynb)
 
 <!--- comment ---!>
