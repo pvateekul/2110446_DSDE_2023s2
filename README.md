@@ -66,7 +66,7 @@ Assignment: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/211044
 
 1. Image classification (basic): CIFAR10: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2023s2/blob/main/code/Week04_DL/1_Image_classification_CIFAR10_CNN.ipynb)
 
-2. Image classification (advanced): Animal: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2023s2/blob/main/code/Week04_DL/2_Image_classification_Animal_EfficientNetB0.ipynb)
+2. Image classification (advanced): Animal: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2023s2/blob/main/code/Week04_DL/2_Image_classification_Animal_EfficientNetV2.ipynb)
 
 3. Object detection: VOCDetection: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2023s2/blob/main/code/Week04_DL/3_Object_detection_VOCDetection_FasterRCNN_MobileNet_V3.ipynb)
 
