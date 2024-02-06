@@ -74,4 +74,26 @@ Assignment: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/211044
 
 5. Time series Forecasting: Stock Price: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2023s2/blob/main/code/Week04_DL/5_Time_series_forecasting_DataInGD.ipynb)
 
+### Week05: Advanced ML (Transformer, GenerativeAI, Model Monitoring, Text Classification)
+
+1. Image classification with Hugging Face: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2023s2/blob/main/code/Week05_AdvancedML/1_Huggingface_image_classification.ipynb)
+
+2. Model Monitoring with MLflow: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2023s2/blob/main/code/Week05_AdvancedML/2_MLflow.ipynb)
+
+3-1. Model Monitoring with Tensorboard: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2023s2/blob/main/code/Week05_AdvancedML/3_1_Image_classification_Animal_EfficientNetB1_Tensorboard.ipynb)
+
+3-2. Model Monitoring with Weight and Biases: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2023s2/blob/main/code/Week05_AdvancedML/3_2_Image_classification_Animal_EfficientNetB1_WandB.ipynb)
+
+4-1. Diffusion on Text-to-Image: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2023s2/blob/main/code/Week05_AdvancedML/4_1_diffusion_model_text_to_image.ipynb)
+
+4-2. Diffusion on Image-to-Image: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2023s2/blob/main/code/Week05_AdvancedML/4_2_diffusion_model_image_to_image.ipynb)
+
+4-3. Fine-tune diffusion model: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2023s2/blob/main/code/Week05_AdvancedML/4_3_diffusion_model_training.ipynb)
+
+5. OpenAI ChatGPT (Simulated Toyota data): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2023s2/blob/main/code/Week05_AdvancedML/5_OpenAI_ChatGPT_Toyota.ipynb)
+
+6-1. Text Classification (TF-IDF): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2023s2/blob/main/code/Week05_AdvancedML/6_1_tfidf_for_Sentiment_Analysis.ipynb)
+
+6-2. Text Classification (BERT): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2023s2/blob/main/code/Week05_AdvancedML/6_2_NLP_Transfer_Learning_for_Text_Classification_Using_Hugging_Face_Transformers_Trainer.ipynb)
+
 <!--- comment ---!>
