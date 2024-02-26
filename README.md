@@ -98,9 +98,9 @@ Assignment: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/211044
 
 ### Take-home midterm exam
 
-Released Date: 26th Feb 2024
-Kaggle Submission Deadline: 11st Mar 2024
-Package Submission Deadline: 18th Mar 2024
+* Released Date: 26th Feb 2024
+* Kaggle Submission Deadline: 11st Mar 2024
+* Package Submission Deadline: 18th Mar 2024
 
 [Details of take-home midterm exam](https://docs.google.com/presentation/d/1H9hXPgP1UuzVfl5SdPOQ0M_EEtHqn-Z49uGTeBAsCWk/edit?usp=sharing)
 
