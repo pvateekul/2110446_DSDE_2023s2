@@ -96,4 +96,14 @@ Assignment: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/211044
 
 6-2. Text Classification (BERT): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2023s2/blob/main/code/Week05_AdvancedML/6_2_NLP_Transfer_Learning_for_Text_Classification_Using_Hugging_Face_Transformers_Trainer.ipynb)
 
+### Take-home midterm exam
+
+* Released Date: 26th Feb 2024
+* Kaggle Submission Deadline: 11st Mar 2024
+* Package Submission Deadline: 18th Mar 2024
+
+[Details of take-home midterm exam](https://docs.google.com/presentation/d/1H9hXPgP1UuzVfl5SdPOQ0M_EEtHqn-Z49uGTeBAsCWk/edit?usp=sharing)
+
+[Join Kaggle competition](https://www.kaggle.com/t/ab4bf180150b4f1a8232af6e212a3667)
+
 <!--- comment ---!>
