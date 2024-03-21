@@ -106,11 +106,8 @@ Assignment: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/211044
 
 [Join Kaggle competition](https://www.kaggle.com/t/ab4bf180150b4f1a8232af6e212a3667)
 
-<!---
 ### Project details (15%)
 
 * [Details of project](https://docs.google.com/presentation/d/1q1I9caUQhtwMVW30WQiEm9x3_vmjQEss1upXYd3VQwM/edit?usp=sharing)
-
----!>
 
 <!--- comment ---!>
