@@ -4,6 +4,8 @@
 
 ## Syllabus:
 
+[Final exam policy (Tue 23 April 2023)](https://docs.google.com/document/d/1Ivo_-cl73JVcylU3rYZVSd8BYeUOxC5IB3amEw1sJ0k/edit?usp=sharing)
+
 [Syllabus](https://docs.google.com/document/d/1_4rCDzA0KwgGOh7CJ1s743QgCGgYW5lITbyRDdr1LoM/edit?usp=sharing)
 
 [Registration questionaire](https://docs.google.com/forms/d/e/1FAIpQLScyiKFawV3Yj1F6nt4t9we37GxGMmiPqOanYbLExlEsUSRsOQ/viewform)
