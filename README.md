@@ -86,13 +86,11 @@ Assignment: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/211044
 
 3-2. Model Monitoring with Weight and Biases: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2023s2/blob/main/code/Week05_AdvancedML/3_2_Image_classification_Animal_EfficientNetB1_WandB.ipynb)
 
-4-1. Stable_Diffusion: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://drive.google.com/file/d/1shlp0S2Kjh14TsFNU9P_sjQBPkFWML44/view?usp=sharing)
+4-1. Diffusion on Text-to-Image: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2024s1/blob/main/code/Week05_AdvancedML/3_1_diffusion_model_text_to_image.ipynb)
 
-4-2. Controlnet: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://drive.google.com/file/d/1ss84x-uRtDx32ZyKUoVMMISyAtUrY0uP/view?usp=sharing)
+4-2. Diffusion on Image-to-Image: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2024s1/blob/main/code/Week05_AdvancedML/3_2_diffusion_model_image_to_image.ipynb)
 
-4-3. Dreambooth: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://drive.google.com/file/d/1qE78qIHMy9hT6saabSavkY5sIrEmn1tf/view?usp=sharing)
-
-4-4. Textual_Inversion: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://drive.google.com/file/d/1rLPmi5XIi_31Zfy6Q40rAXedQzsws4KH/view?usp=sharing)
+4-3. Fine-tune diffusion model: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2024s1/blob/main/code/Week05_AdvancedML/3_3_diffusion_model_training.ipynb)
 
 5. OpenAI ChatGPT (Simulated Toyota data): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2023s2/blob/main/code/Week05_AdvancedML/5_OpenAI_ChatGPT_Toyota.ipynb)
 
